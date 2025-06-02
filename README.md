@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Eagle Lo!
 
-<!--
-**EagleLo/EagleLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Data Science @ CMU  
+🚀 Building AI infra and real-time recommendation systems  
+🧠 Interests: Distributed Systems, ML Infra, Quantitative Research
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python, Go, SQL, Bash
+- **Infra:** Kubernetes, Docker, Terraform, AWS, Ray, Kafka
+- **Monitoring:** Prometheus, Grafana
+- **DevOps:** GitHub Actions, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Eagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=EagleLo&show_icons=true&theme=dark)
+
