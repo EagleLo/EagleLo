@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yu-hsiang-eagle-lo/"><img src="https://img.shields.io/badge/LinkedIn-Eagle%20Lo-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:eaglel@andrew.cmu.edu"><img src="https://img.shields.io/badge/Gmail-eaglel@andrew.cmu.edu-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://eaglelo.dev"><img src="https://img.shields.io/badge/Portfolio-eaglelo.dev-red?style=flat&logo=firefox-browser" /></a>
+  <a href="https://eagle-lo.com"><img src="https://img.shields.io/badge/Portfolio-eaglelo.dev-red?style=flat&logo=firefox-browser" /></a>
 </p>
 
 ---
@@ -73,18 +73,8 @@ I'm Eagle (Yu-Hsiang) Lo — a builder, entrepreneur, and systems engineer.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EagleLo&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EagleLo&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleLo&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## ☕ Let’s Connect
 
 Feel free to reach out if you want to chat about  
 ML Systems · Open Source · Startups · Hackathons · or Karaoke 🎤  
-💌 [eaglel@andrew.cmu.edu](mailto:eaglel@andrew.cmu.edu) | 🌐 [eaglelo.dev](https://eaglelo.dev)  
+💌 [eaglel@andrew.cmu.edu](mailto:eaglel@andrew.cmu.edu) | 🌐 [eaglelo.dev](https://eagle-lo.com)  
