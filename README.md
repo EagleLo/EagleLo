@@ -15,7 +15,7 @@ I'm Eagle (Yu-Hsiang) Lo — a builder, entrepreneur, and systems engineer.
 - 🎓 Master's in Computational Data Science @ Carnegie Mellon University (4.0 GPA)
 - 🦅 Founder of **Cyberlife AI** & **Bypon Design Ltd.**  
 - 💡 Hackathon Winner @ CMU AWAP 2025 & TartanHacks 2025  
-- 💼 Incoming SWE Intern @ **Samsara** (ML Platform)  
+- 💼 Incoming SWE Intern @ **Samsara** (Asset Team)  
 - 📈 Former Research Consultant @ **WorldQuant**, Researcher @ **Caltech**  
 - 🧠 Interested in: Machine Learning Systems, Infra, Cloud DevOps, and AI Companions
 
